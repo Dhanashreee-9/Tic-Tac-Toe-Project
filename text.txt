@@ -1,0 +1,3 @@
+##whenever we click bydefault we get event as parameter
+
+it automatically have event
